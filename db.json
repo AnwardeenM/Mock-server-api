@@ -1,0 +1,50 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "K",
+      "email": "john@gmail.com",
+      "phone": "9876543210",
+      "dob": "04-10-1990",
+      "gender": "male",
+      "hobbies": ["cricket", "Story books"]
+    },
+    {
+      "id": 2,
+      "first_name": "Stewart",
+      "last_name": "P",
+      "email": "stewart@gmail.com",
+      "phone": "4567891230",
+      "dob": "15-06-1993",
+      "gender": "male",
+      "hobbies": ["Football", "Novels"]
+    },
+    {
+      "id": 3,
+      "first_name": "Peter",
+      "last_name": "M",
+      "email": "peter@gmail.com",
+      "phone": "1234567890",
+      "dob": "22-07-1995",
+      "gender": "male",
+      "hobbies": ["VolleyBall", "Squash"]
+    },
+    {
+      "id": 4,
+      "first_name": "Stephany",
+      "last_name": "J",
+      "email": "stephany@gmail.com",
+      "phone": "9876543210",
+      "dob": "04-03-1997",
+      "gender": "female",
+      "hobbies": ["Table Tennis", "Novels"]
+    }
+  ],
+  "users": [
+    {
+      "name": "admin",
+      "password": "admin123"
+    }
+  ]
+}
